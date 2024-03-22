@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg706"
+   sodipodi:docname="unselect.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs710" /><sodipodi:namedview
+   id="namedview708"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.41192181"
+   inkscape:cx="704.0171"
+   inkscape:cy="676.09918"
+   inkscape:window-width="1920"
+   inkscape:window-height="1044"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg706" />
+<metadata
+   id="metadata700"> Svg Vector Icons : http://www.onlinewebfonts.com/icon </metadata>
+    <path
+   id="path702"
+   d="M 361.90039 10 C 297.40046 10 245.19922 62.199283 245.19922 126.69922 L 245.19922 638.09961 C 245.19922 702.59954 297.50046 754.80078 361.90039 754.80078 L 873.30078 754.80078 C 937.80072 754.80078 990 702.59915 990 638.19922 L 990 126.69922 C 990 62.199283 937.80033 10 873.40039 10 L 361.90039 10 z M 393.59961 88.400391 L 841.59961 88.400391 C 880.29957 88.400391 911.59961 119.70043 911.59961 158.40039 L 911.59961 606.40039 C 911.59961 645.10035 880.29957 676.40039 841.59961 676.40039 L 393.59961 676.40039 C 354.89965 676.40039 323.59961 645.10035 323.59961 606.40039 L 323.59961 158.40039 C 323.59961 119.70043 354.89965 88.400391 393.59961 88.400391 z M 166.80078 166.80078 C 145.1008 166.80078 127.59961 184.30002 127.59961 206 L 127.59961 774.40039 C 127.59961 828.50034 171.49966 872.40039 225.59961 872.40039 L 794 872.40039 C 815.69998 872.40039 833.19922 854.7992 833.19922 833.19922 C 833.19922 811.59924 815.59998 794 794 794 L 264.80078 794 C 232.30081 794 206 767.69919 206 735.19922 L 206 206 C 206 184.30002 188.40076 166.80078 166.80078 166.80078 z M 49.199219 323.59961 C 27.59924 323.59961 10 341.2008 10 362.80078 L 10 892 C 10 946.09995 53.900054 990 108 990 L 637.19922 990 C 658.7992 990 676.40039 972.40076 676.40039 950.80078 C 676.40039 929.2008 658.7992 911.59961 637.19922 911.59961 L 147.19922 911.59961 C 114.69925 911.59961 88.400391 885.30075 88.400391 852.80078 L 88.400391 362.80078 C 88.400391 341.1008 70.899197 323.59961 49.199219 323.59961 z " />
+</svg>

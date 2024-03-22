@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
+        fill="none"
+        version="1.1"
+        id="svg150"
+        sodipodi:docname="arrowR2.svg"
+        inkscape:version="1.2.2 (b0a8486541, 2022-12-01, custom)"
+        xmlns="http://www.w3.org/2000/svg"
+>
+    <defs
+            id="defs154"/>
+    <sodipodi:namedview
+            id="namedview152"
+            pagecolor="#505050"
+            bordercolor="#eeeeee"
+            borderopacity="1"
+            inkscape:showpageshadow="0"
+            inkscape:pageopacity="0"
+            inkscape:pagecheckerboard="0"
+            inkscape:deskcolor="#505050"
+            showgrid="false"
+            inkscape:zoom="52.75"
+            inkscape:cx="8"
+            inkscape:cy="8"
+            inkscape:window-width="1920"
+            inkscape:window-height="1050"
+            inkscape:window-x="0"
+            inkscape:window-y="0"
+            inkscape:window-maximized="1"
+            inkscape:current-layer="svg150"/>
+    <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M9.21221 13.2121C9.48557 13.4854 9.92879 13.4854 10.2022 13.2121L14.9193 8.4949C15.1927 8.22153 15.1927 7.77831 14.9193 7.50495L10.2022 2.78779C9.92879 2.51442 9.48557 2.51442 9.21221 2.78779L8.78794 3.21205C8.51458 3.48542 8.51458 3.92864 8.78794 4.202L11.5859 7H1.55714C1.24979 7 1 7.269 1 7.6V8.4C1 8.731 1.24979 9 1.55714 9H11.5858L8.78794 11.7978C8.51458 12.0712 8.51458 12.5144 8.78794 12.7878L9.21221 13.2121Z"
+            fill="#828282"
+            id="path148"
+            style="fill:#ffffff"/>
+</svg>

@@ -1,0 +1,23 @@
+body {
+  font: normal 1vw Roboto-Regular;
+}
+
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: WorkSans;
+  src: url(WorkSans/WorkSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: RobotoCondensed-Regular;
+  src: url(RobotoCondensed/RobotoCondensed-Regular.ttf);
+}
+
+@font-face {
+  font-family: FiraMono-Regular;
+  src: url(FiraMono/FiraMono-Regular.ttf);
+}
